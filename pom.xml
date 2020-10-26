@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <junit.jupiter>5.5.1</junit.jupiter>
         <comloggin.version>1.2</comloggin.version>
         <slf4jnop.version>1.7.21</slf4jnop.version>
