@@ -14,7 +14,7 @@
         <junit.jupiter>5.5.1</junit.jupiter>
         <comloggin.version>1.2</comloggin.version>
         <slf4jnop.version>1.7.21</slf4jnop.version>
-        <shiro.version>1.4.2</shiro.version>
+        <shiro.version>1.6.0</shiro.version>
     </properties>
 
     <dependencies>
